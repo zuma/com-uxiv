@@ -1,11 +1,11 @@
 {
   "domain": "uxiv.com",
-  "managedBy": "parking",
+  "managedBy": "standalone",
   "title": "uxiv.com",
   "headline": "uxiv.com",
   "subheadline": "This domain is registered and maintained under our digital portfolio.",
   "badge": "Parked Domain",
   "accentColor": "#6366f1",
-  "contactEmail": "inquiries@uxiv.com",
+  "contactEmail": "mailto@uxiv.com",
   "ctaText": "Inquire About Domain"
 }
